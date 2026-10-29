@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Vasyl%20Mushchynka&fontSize=48&subtext=Full-Stack%20Developer%20%7C%20React,%20Next.js,%20Node.js,%20TypeScript&subFontSize=18&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Vasyl%20Mushchynka&fontSize=48&subtext=Junior%20Full-Stack%20Developer%20%7C%20Experience:%201-2%20years&subFontSize=18&fontAlignY=38" width="100%" />
 
   ### I build scalable web products from idea to production 🚀
 
@@ -15,12 +15,12 @@
 
 ### 🚀 About Me
 
-- 🌐 I build modern web products with a commercial full-stack approach and product mindset.
-- ⚛️ I craft scalable frontend systems using `React`, `TypeScript`, `Next.js`, and state/styling tools.
-- ⚙️ I design robust backend services with `Node.js`, `Hono`, `Express`, and `NestJS`.
-- 🗄️ I work with `PostgreSQL`, `Prisma ORM`, `MongoDB`, and `Firebase` for reliable data layers.
-- 🐳 I deploy production systems using `Docker`, `GitHub Actions` (CI/CD), and cloud services.
-- 🤖 I integrate AI solutions like `Anthropic Claude API` into production workflows.
+- 🌐 I build modern web products with a commercial full-stack approach and product mindset
+- ⚛️ I craft scalable frontend systems using `React`, `TypeScript`, `Next.js`, and state/styling tools
+- ⚙️ I design robust backend services with `Node.js`, `Hono`, `Express`, and `NestJS`
+- 🗄️ I work with `PostgreSQL`, `Prisma ORM`, `MongoDB`, and `Firebase` for reliable data layers
+- 🐳 I deploy production systems using `Docker`, `GitHub Actions` (CI/CD), and cloud services
+- 🤖 I integrate AI solutions like `Anthropic Claude API` into production workflows
 
 ---
 
