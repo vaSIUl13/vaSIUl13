@@ -49,8 +49,8 @@
 
 ### 🌍 Languages
 
-- 🇺🇦 **Ukrainian** — Native[cite: 2]
-- 🇬🇧 **English** — Intermediate (B1-B2)[cite: 2]
+- 🇺🇦 **Ukrainian** — Native
+- 🇬🇧 **English** — Intermediate (B1-B2
 
 ---
 
