@@ -15,12 +15,12 @@
 
 ### 🚀 About Me
 
-- 🌐 I build modern web products with a commercial full-stack approach and product mindset[cite: 1].
-- ⚛️ I craft scalable frontend systems using `React`, `TypeScript`, `Next.js`, and state/styling tools[cite: 1].
-- ⚙️ I design robust backend services with `Node.js`, `Hono`, `Express`, and `NestJS`[cite: 1].
-- 🗄️ I work with `PostgreSQL`, `Prisma ORM`, `MongoDB`, and `Firebase` for reliable data layers[cite: 1].
-- 🐳 I deploy production systems using `Docker`, `GitHub Actions` (CI/CD), and cloud services[cite: 1].
-- 🤖 I integrate AI solutions like `Anthropic Claude API` into production workflows[cite: 1, 2].
+- 🌐 I build modern web products with a commercial full-stack approach and product mindset.
+- ⚛️ I craft scalable frontend systems using `React`, `TypeScript`, `Next.js`, and state/styling tools.
+- ⚙️ I design robust backend services with `Node.js`, `Hono`, `Express`, and `NestJS`.
+- 🗄️ I work with `PostgreSQL`, `Prisma ORM`, `MongoDB`, and `Firebase` for reliable data layers.
+- 🐳 I deploy production systems using `Docker`, `GitHub Actions` (CI/CD), and cloud services.
+- 🤖 I integrate AI solutions like `Anthropic Claude API` into production workflows.
 
 ---
 
