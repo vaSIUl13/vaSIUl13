@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/vaSIUl13?label=Followers&style=for-the-badge&logo=github&color=0077b6)](https://github.com/vaSIUl13)
 ![Profile views](https://komarev.com/ghpvc/?username=vaSIUl13&label=Profile+views&style=for-the-badge&color=00b4d8)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasylmushchynka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasyl-mushchynka/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mygchinkavasil@gmail.com)
 
 </div>
