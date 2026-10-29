@@ -18,11 +18,11 @@
 
 Full-Stack Developer with 1–2 years of commercial experience, building web products from idea to production. I focus on clean architecture, maintainable code and a product-oriented approach, where technical decisions serve real business value.
 
-- ⚛️ **Frontend** — scalable, type-safe interfaces with React, Next.js and TypeScript
-- ⚙️ **Backend** — reliable REST services with Node.js, Hono, Express and NestJS
-- 🗄️ **Data** — relational and document databases with PostgreSQL, Prisma, MongoDB and Firebase
-- 🐳 **DevOps** — containerized deployments and CI/CD pipelines with Docker and GitHub Actions
-- 🤖 **AI** — integrating the Anthropic Claude API into production workflows
+- ⚛️ **Frontend** - scalable, type-safe interfaces with React, Next.js and TypeScript
+- ⚙️ **Backend** - reliable REST services with Node.js, Hono, Express and NestJS
+- 🗄️ **Data** - relational and document databases with PostgreSQL, Prisma, MongoDB and Firebase
+- 🐳 **DevOps** - containerized deployments and CI/CD pipelines with Docker and GitHub Actions
+- 🤖 **AI** - integrating the Anthropic Claude API into production workflows
 
 ---
 
@@ -55,12 +55,6 @@ Full-Stack Developer with 1–2 years of commercial experience, building web pro
       <img src="https://img.shields.io/badge/SonarCloud-F29100?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud" height="48" />
     </td>
   </tr>
-  <tr>
-    <td><b>🤖 AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude API" height="48" />
-    </td>
-  </tr>
 </table>
 
 ---
@@ -75,6 +69,21 @@ Full-Stack Developer with 1–2 years of commercial experience, building web pro
 ---
 
 ## 🤝 Let's Connect
-[LinkedIn](https://linkedin.com/in/vasylmushchynka) or [email](mailto:mygchinkavasil@gmail.com).
+
+I'm open to new opportunities and interesting projects. Feel free to reach out:
+
+<p align="center">
+  <a href="https://linkedin.com/in/vasylmushchynka">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mygchinkavasil@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaSIUl13">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=100&section=footer" width="100%" alt="" />
