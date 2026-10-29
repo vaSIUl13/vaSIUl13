@@ -73,7 +73,7 @@ Full-Stack Developer with 1–2 years of commercial experience, building web pro
 I'm open to new opportunities and interesting projects. Feel free to reach out:
 
 <p align="center">
-  <a href="https://linkedin.com/in/vasylmushchynka">
+  <a href="https://www.linkedin.com/in/vasyl-mushchynka/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
